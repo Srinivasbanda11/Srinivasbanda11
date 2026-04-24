@@ -1,4 +1,3 @@
-<div align="center">
 
 # Hi, I'm Srinivasulu Banda 👋
 
@@ -119,4 +118,3 @@ G. Pullaiah College *(2016-2020)*
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandasrinivasulu.98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasuluband)
 
-</div>

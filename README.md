@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-bandasrinivasulu.98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandasrinivasulu.98@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-913--298--1644-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9132981644)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivasuluband)
+
 
 ---
 

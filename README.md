@@ -6,12 +6,6 @@
 
 ---
 
-## 🚀 About Me
-5+ years of experience building full-stack, data-intensive applications using **TypeScript**, **React**, **Node.js**, **GraphQL**, and **PostgreSQL** on **AWS**.
-Passionate about scalable systems, clean APIs, and delivering great user experiences in healthcare and enterprise products.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -33,7 +27,7 @@ Passionate about scalable systems, clean APIs, and delivering great user experie
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)

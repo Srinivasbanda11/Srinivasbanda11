@@ -1,9 +1,6 @@
 # Hi, I'm Srinivasulu Banda 👋
 
 [![Open to Hire](https://img.shields.io/badge/Status-Open%20to%20Hire-brightgreen?style=for-the-badge)]()
-[![Email](https://img.shields.io/badge/Email-bandasrinivasulu.98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandasrinivasulu.98@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-913--298--1644-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:9132981644)
-
 ---
 
 ## 🛠️ Tech Stack
